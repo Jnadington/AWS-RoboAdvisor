@@ -13,10 +13,14 @@ This project leverages Python 3.7 and Amazon Lex & Lambda
 ## Examples
 
 # Bot without Lambda implementation
-!(Images/TestBot1.gif)
+![](Images/TestBot1.gif)
 
 # Bot with Lambda Implementation
+Valid Input
+![](Images/TestBotLambda2.gif)
 
+Invalid Input
+![](Images/TestBotLambda1.gif)
 
 
 ---
