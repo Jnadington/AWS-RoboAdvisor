@@ -30,4 +30,4 @@ This project leverages Python 3.7 and Amazon Lex & Lambda
 
 
 
-![](Images/TestBot1.gif)
+
