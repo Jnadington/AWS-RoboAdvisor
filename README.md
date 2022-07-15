@@ -26,8 +26,6 @@ Invalid Input
 ---
 
 
-## Contributors
-
 
 
 
